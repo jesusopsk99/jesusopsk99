@@ -85,7 +85,7 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, TensorFlow, Matplotlib, 
 🔥 Results
 
 With the final model, I predicted the heat demand for the year 2016 in Germany.
-![Análisis Seaborn](kB2gmXrp0T.png)
+![Análisis Seaborn](chrome_1fxKJtpQ4k.png)
 
 And the final stadistics
 ![Análisis Seaborn](chrome_UTJoott041W.png)
