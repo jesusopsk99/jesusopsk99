@@ -1,4 +1,17 @@
-!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005f73&height=250&section=header&text=Jesus%20Osorio&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  
+  <h3>🚀 Data Science & Energy Engineering</h3>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  </p>
+</div>
+
+---
 <div align="center">
 
 ```python
