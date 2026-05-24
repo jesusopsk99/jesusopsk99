@@ -82,6 +82,10 @@ LSTM (TensorFlow) — R² = 0.69
 
 Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, TensorFlow, Matplotlib, Seaborn, Streamlit
 
+🔥 Results
+With the final model, I predicted the heat demand for the year 2016.
+
+
 📁 Data Source
 
 Open Power System Data — European Thermal Load Profiles
