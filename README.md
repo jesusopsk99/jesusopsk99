@@ -98,10 +98,20 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, TensorFlow, Matplotlib, 
 🔥 Results
 
 With the final model, I predicted the heat demand for the year 2016 in Germany.
+
+
 ![Análisis Seaborn](chrome_1fxKJtpQ4k.png)
 
+
+
+
 And the final stadistics
+
+
+
 ![Análisis Seaborn](chrome_UTJottO41W.png)
+
+
 
 📁 Data Source
 
@@ -112,8 +122,4 @@ Open Power System Data — European Thermal Load Profiles
 
 
 
-<div align="center">
 
-*"Los datos son el nuevo petróleo, pero solo valen si los refinas."*
-
-</div>
