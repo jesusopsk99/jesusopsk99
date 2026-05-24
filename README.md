@@ -117,9 +117,8 @@ And the final stadistics
 
 Open Power System Data — European Thermal Load Profiles
 
-[![Ver repositorio](https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario/prediccion-consumo)
-[![Notebook](https://img.shields.io/badge/Ver%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/tu-usuario/prediccion-consumo/blob/main/notebook.ipynb)
-
+[![Ver repositorio](https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jesusopsk99/jesusopsk99)
+[![Notebook](https://img.shields.io/badge/Ver%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/jesusopsk99/jesusopsk99/blob/main/Prediction_of_energy.ipynb)
 
 
 
