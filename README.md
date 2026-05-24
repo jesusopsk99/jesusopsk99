@@ -83,8 +83,12 @@ LSTM (TensorFlow) — R² = 0.69
 Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, TensorFlow, Matplotlib, Seaborn, Streamlit
 
 🔥 Results
-With the final model, I predicted the heat demand for the year 2016.
 
+With the final model, I predicted the heat demand for the year 2016 in Germany.
+![Análisis Seaborn](kB2gmXrp0T.png)
+
+And the final stadistics
+![Análisis Seaborn](chrome_UTJoott041W.png)
 
 📁 Data Source
 
