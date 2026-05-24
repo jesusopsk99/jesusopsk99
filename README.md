@@ -65,7 +65,7 @@ This project analyzes and predicts thermal energy demand (space and water heatin
 The dataset contains detailed information about heat demand segmented by building type (commercial, multi-family, and single-family buildings) for each country. The analysis includes exploratory data analysis (EDA), time-series visualizations, and machine learning forecasting models.In the dashboard created with Power BI, the heat demand data is displayed. This is the data I will use to train and validate the prediction model.
 
 
-![Dashboard Power BI](images/PBIDesktop_LOZpSBvymX.png)
+![Dashboard Power BI](PBIDesktop_LOZpSBvymX.png)
 
 
 
