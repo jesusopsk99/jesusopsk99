@@ -88,7 +88,7 @@ With the final model, I predicted the heat demand for the year 2016 in Germany.
 ![Análisis Seaborn](chrome_1fxKJtpQ4k.png)
 
 And the final stadistics
-![Análisis Seaborn](chrome_UTJoott041W.png)
+![Análisis Seaborn](chrome_UTJottO41W.png)
 
 📁 Data Source
 
